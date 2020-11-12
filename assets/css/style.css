@@ -557,6 +557,7 @@ section {
 .about .content h3 {
   font-weight: 600;
   font-size: 26px;
+  background: #3498db;
 }
 
 .about .content ul {
@@ -601,6 +602,7 @@ section {
   animation-delay: 0.8s;
   margin-top: 6px;
   border: 2px solid #3498db;
+  background: #3498db;
 }
 
 .about .content .btn-learn-more:hover {
